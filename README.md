@@ -12,7 +12,7 @@ Retrieve epidemiological tables from transmission clusters (by pairs) stored in 
 **Requirements:**
 
 - [Entrez API key](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
-- [alamos-extract](https://github.com/sggaffney/alamos-extract) in your local bin directory. 
+- [alamos-extract](https://github.com/AtkinsGroup/alamos-extract) installed in your local Python distribution
 - R Dependencies: *genbankr*, *rentrez*, *stringr*.
 
 **Arguments:**
